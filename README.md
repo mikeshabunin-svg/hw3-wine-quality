@@ -66,6 +66,8 @@ Streamlit запускает скрипт заново при каждом де�
 
 ## Публикация
 
+Репозиторий [mikeshabunin-svg/hw3-wine-quality](https://github.com/mikeshabunin-svg/hw3-wine-quality) открыт для просмотра.
+
 Приложение размещено в Streamlit Community Cloud. Для повторного деплоя укажите репозиторий `mikeshabunin-svg/hw3-wine-quality`, ветку `main` и основной файл `app.py`. Используйте ту же версию Python и зависимости, что и при локальном запуске.
 
 Если приложение закрытое, доступ преподавателю можно дать через кнопку **Share**.
