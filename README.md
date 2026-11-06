@@ -59,6 +59,8 @@ CSV содержит `fixed_acidity, volatile_acidity, citric_acid, residual_sug
 
 Если Python 3.14 недоступен в списке сервиса, сначала воспроизведите окружение и проверьте приложение на доступной версии Python. Не меняйте версии scikit-learn/joblib независимо от сохранённой модели: при необходимости пересохраните модель из ноутбука в новом окружении.
 
-Локальная проверка и архив не заменяют облачный деплой. Репозиторий приложения: https://github.com/mikeshabunin-svg/hw3-wine-quality (приватный). Облачная публикация пока не выполнена: требуется вход владельца в Streamlit Community Cloud.
+Репозиторий приложения: https://github.com/mikeshabunin-svg/hw3-wine-quality (приватный).
+
+Приложение развёрнуто в Streamlit Community Cloud: [открыть приложение](https://hw3-wine-quality-utcyuzy9wcm3ygvhgurizx.streamlit.app). Облачный запуск и работа оценки одного вина подтверждены скриншотом 6 ноября 2026 года. Перед сдачей проверьте, что преподаватель может открыть ссылку: для приватного приложения предоставьте ему доступ через Share.
 
 [Официальная инструкция по публикации](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
